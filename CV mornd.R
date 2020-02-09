@@ -1,0 +1,214 @@
+---
+  title: "Mor Ndiaye"
+author: Mor Ndiaye
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+  # set it to true for a self-contained HTML page but it'll take longer to render
+  self_contained: TRUE
+# uncomment this line to produce HTML and PDF in RStudio:
+#knit: pagedown::chrome_print
+---
+  
+  Aside
+================================================================================
+  
+  
+  Contacts {#contact}
+    --------------------------------------------------------------------------------
+      
+      - <i class="fa fa-envelope"></i> ndmorndiaye@gmail.com
+      - <i class="fa fa-github"></i> [github.com](https://github.com/morandiaye)
+      - <i class="fa fa-phone"></i> (+221) 777843522
+      - Pour plus  d'informations, contacter moi via email.
+
+--------------------------------------------------------------------------------
+
+### Compétences Techniques
+
+--------------------------------------------------------------------------------
+
+**Programmation**: 
+
+**R**
+
+::: concise
+
+1. Traitement de données
+
+2. Cartographie par modelisation spatiale
+
+3. Analyse geospatiale  et Geoprocessing 
+
+4. Dashboard (debutant) 
+
+5. Recherche Reproductible
+
+:::
+
+--------------------------------------------------------------------------------
+
+**SIG** :
+
+Cartographie, Analyse Spatiale et Télédétection
+
+1. ArcGis
+
+2. QGIS
+
+3. Google Earth Engine (debutant)
+
+--------------------------------------------------------------------------------
+
+**Autres Softwares**
+
+
+1. Superdecisions
+
+2. Pack Office
+
+--------------------------------------------------------------------------------
+
+**Langues**
+
+--------------------------------------------------------------------------------
+
+1. <i class=""></i> Francais : Courant
+
+2. <i class=""></i> Anglais : Technique
+
+
+
+
+Main
+================================================================================
+
+Mor Ndiaye {#title}
+--------------------------------------------------------------------------------
+
+### Ingénieur Agronome Spécialisé en Sciences du Sol
+
+ Je suis un passionné des innovations technologiques et de leurs applications dans le domaine de l'agriculture . Face aux defis que fait face  l'agriculture Je croit fort que l'usage de la science des données , des SIG (...) pourraient avoir un impact  reel pour adresser les defis de l'heure (Changement Climatique, Démographie,etc.)
+
+
+Formations {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Ecole Nationale Superieure d'Agriculture
+      
+      Ingénieur Agronome Option  Sciences du Sol
+      
+      Thies, Sénégal
+      
+      2019 - 2014
+      
+      **Memoire**: Encadrant **Dr.Alioune Diagne** *Evaluation de l’aptitude à la riziculture et au maraichage des sols de bas-fonds aménagés par le PASA-LouMaKaf dans le département*
+        de Malem Hodar : Cas de Niakhène, Malem Thieurigne et Ngueidji.
+      
+      
+      - Prospection pédologique et analyse des données spatiales 
+      - Carte thematique des parametres physicochimiques du sol
+      - Caracterisation du Bassin versant(NDVI,NDWI ...)
+      - Determination de l'aptitude cultural methode : AHP
+ - Proposition systeme de gestion durable des terres
+
+### Auto-Ecole
+
+Permis de Conduire B
+
+Thiés, Sénégal
+
+2017
+
+Experiences Professionnelles{data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Ingénieur Agronome , Stage
+Ingénieur Agronome au niveau de la Société Nationale d’Aménagement et d’Exploitation des Terres du Delta de fleuve Sénégal et des Vallées du fleuve Sénégal et de la Falémé (SAED)
+
+Podor, Sénégal
+
+30/11/2019 - 01/10/2019
+
+
+### Memoire de Fin d’études
+
+Pojet d’Appui à la Sécurité Alimentaire(PASA/Loumakaf)
+
+Kaffrine, Sénégal
+
+31/03/2019 - 01/09/2018
+
+### Stage d’initiation au travail d’ouvrier agricole
+
+Stage d’exploitation agricole dans le Domaine Agricole
+Communautaire Keur Saloum Diané
+
+Fatick, Sénégal
+
+2017 
+
+::: concise
+
+- Etudier les types de sols presents au niveau du domaine. 
+- Comprendre la pratique de l’agriculture pluviale
+- Proproser un schéma d’aménagement
+
+::: 
+
+### Stage Découverte de structure
+
+Société Nationale d’Aménagement et d’Exploitation des Terres du Delta de fleuve Sénégal et des Vallées du fleuve Sénégal et de la Falémé (SAED)
+
+Podor,Sénégal
+
+2016
+
+### Stage Rural
+Stage d’initiation aux enquêtes socio-économiques en milieu rural
+dans le village de Khamnane
+
+Thiés,Sénégal
+
+2014
+
+::: aside
+--------------------------------------------------------------------------------
+
+ 
+**Références**
+
+--------------------------------------------------------------------------------
+
+Dr. **Alioune Diagne**
+
+email: aliounediagne3@yahoo.fr 
+
+Dr. **Mamadou Talla Diagne** 
+
+*Chef de département science du sol*
+
+email: talladiagne@yahoo.fr 
+ 
+--------------------------------------------------------------------------------
+
+Made with the R package [**pagedown**](https://github.com/rstudio/pagedown). 
+
+Dernière Mise à jour `r Sys.Date()`.
+
+:::
+
+
+### Enquête
+Recensement général de la population et de l’habitat, de l’agriculture
+et de l’élevage (RGPHAE)
+
+Podor,Sénégal
+
+2013
+
+
+
+
+
+

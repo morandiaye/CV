@@ -1,6 +1,6 @@
 ## MOR NDIAYE
 Creation de mon CV Pagedown
-Ce CV fabriqué sur la base  du package Pagedown reflete mon parcours en tant que ingénieur Agronome spécialisé en science du sol sortant de l'Ecole Nationale Superieure ed'Agriculture.
+Ce CV fabriqué sur la base  du package Pagedown reflete mon parcours en tant que ingénieur Agronome spécialisé en science du sol sortant de l'Ecole Nationale Superieure d'Agriculture.
 # Centres interets
 - Agronomie, 
 - Pédologie, 

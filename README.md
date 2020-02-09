@@ -8,7 +8,7 @@ Ce CV fabriqué sur la base  du package Pagedown reflete mon parcours en tant qu
 - Cartographie Numérique des Sols, 
 - Télédétection,
 - Fertilité des sols, 
-- Aide multicritère à la décision, 
+- Aide multicritère à la décision (AHP method)
 - Statistique, 
 - SIG, 
 - Science des  données , 
